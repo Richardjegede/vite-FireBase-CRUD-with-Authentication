@@ -1,6 +1,7 @@
-# vite + firebase
+# vite + firebase 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an interesting Backend project with FIREBASE as the Backend for this web application.
+I built this using Vite.Js as the user interface framework. and firebase as the Backend
 
 Currently, two official plugins are available:
 
